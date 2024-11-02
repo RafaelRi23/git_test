@@ -1,0 +1,17 @@
+[33mcommit 0794e880931ac12d5bd5935c3ebcc475e108951e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Rafael Ribeiro <ribeirorafael8814@gmail.com>
+Date:   Sat Nov 2 15:31:53 2024 -0300
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 963d767395aeb0e9e4a6fbb2d29e4530d103e9bd[m
+Author: Rafael Ribeiro <ribeirorafael8814@gmail.com>
+Date:   Sat Nov 2 14:55:38 2024 -0300
+
+    Add hello_world.txt
+
+[33mcommit df0da2dabe0704c6e94731e818eb3bdfab0fe054[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Rafael Ribeiro <122839141+RafaelRi23@users.noreply.github.com>
+Date:   Sat Nov 2 14:50:19 2024 -0300
+
+    Initial commit
